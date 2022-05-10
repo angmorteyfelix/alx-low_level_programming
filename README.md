@@ -1,1 +1,1 @@
-This readme contains the instructions of the prject repository
+This is the project repository
