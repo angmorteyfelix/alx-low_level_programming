@@ -1,1 +1,1 @@
-This is a readme for a repository
+This is the repository readme for the entire alx-low_level_programming
